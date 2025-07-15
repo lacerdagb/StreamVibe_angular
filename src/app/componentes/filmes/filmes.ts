@@ -12,10 +12,12 @@ export class Filmes {
   }
 
 
+  // Dados mockados
   filme1 = {
     nome: "Ataque de tubarão de 3 cabeças",
     imagem: "/tubarao.jpg",
     sinopse: "Filme de um tubarão irado que possui 3 cabeças mutantes ",
+    genero: "drama",
     favorito: false
   }
 }
